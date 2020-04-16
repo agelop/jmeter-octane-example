@@ -86,7 +86,7 @@
               <assertions>true</assertions>
               <subresults>true</subresults>
               <responseData>false</responseData>
-              <samplerData>true</samplerData>
+              <samplerData>false</samplerData>
               <xml>true</xml>
               <fieldNames>true</fieldNames>
               <responseHeaders>false</responseHeaders>
