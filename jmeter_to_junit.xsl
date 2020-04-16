@@ -208,16 +208,15 @@
 
                         </xsl:if>
 
+                        <!--
                         <xsl:if test="@s = 'false'">
-                            
-                            <!--
+                                                        
                             <xsl:if test="responseData">
 
                                 <error><xsl:value-of select="responseData"/></error>
 
                             </xsl:if>
-                            -->
-
+                            
                             <failure>
 
                                 <!-- show only the first failure message (if multiple) as the JUnit schema only supports one faulure node -->
@@ -231,6 +230,7 @@
                             </failure>
 
                         </xsl:if>
+                        -->
 
                     </testcase>
 
