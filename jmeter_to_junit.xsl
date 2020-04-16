@@ -209,12 +209,14 @@
                         </xsl:if>
 
                         <xsl:if test="@s = 'false'">
-
+                            
+                            <!--
                             <xsl:if test="responseData">
 
                                 <error><xsl:value-of select="responseData"/></error>
 
                             </xsl:if>
+                            -->
 
                             <failure>
 
