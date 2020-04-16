@@ -79,25 +79,23 @@
               <success>true</success>
               <label>true</label>
               <code>true</code>
-              <message>true</message>
+              <message>false</message>
               <threadName>true</threadName>
-              <dataType>true</dataType>
-              <encoding>true</encoding>
+              <dataType>false</dataType>
+              <encoding>false</encoding>
               <assertions>true</assertions>
               <subresults>true</subresults>
-              <responseData>true</responseData>
+              <responseData>false</responseData>
               <samplerData>true</samplerData>
               <xml>true</xml>
               <fieldNames>true</fieldNames>
-              <responseHeaders>true</responseHeaders>
-              <requestHeaders>true</requestHeaders>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
               <responseDataOnError>false</responseDataOnError>
               <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
               <assertionsResultsToSave>0</assertionsResultsToSave>
               <bytes>true</bytes>
               <sentBytes>true</sentBytes>
-              <url>true</url>
-              <fileName>true</fileName>
               <hostname>true</hostname>
               <threadCounts>true</threadCounts>
               <sampleCount>true</sampleCount>
