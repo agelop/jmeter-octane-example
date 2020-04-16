@@ -219,11 +219,7 @@
                             
                             <failure>
 
-                                <!-- show only the first failure message (if multiple) as the JUnit schema only supports one faulure node -->
-
                                 <xsl:attribute name="message"><xsl:value-of select="concat('Response Code: ', @rc, ', Response Message: ', @rm)"/></xsl:attribute>
-
-                                <!-- show only the first failure type (if multiple) as the JUnit schema only supports one faulure node -->
 
                                 <xsl:attribute name="type"><xsl:value-of select="@rc"/></xsl:attribute>
 
