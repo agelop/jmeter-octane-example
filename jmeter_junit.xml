@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testsuite>
+
+                <testcase classname="br.com.yaman.certificacaotecnica.Performance" name="passedTest1" time="29.000">
+
+                </testcase>
+
+                <testcase classname="br.com.yaman.certificacaotecnica.Performance" name="passedTest2" time="29.000">
+
+                </testcase>
+
+</testsuite>
