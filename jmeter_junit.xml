@@ -2,12 +2,47 @@
 
 <testsuite>
 
-                <testcase classname="br.com.yaman.certificacaotecnica.Performance" name="passedTest1" time="29.000">
+                <testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Payment" time="29.000">
 
                 </testcase>
 
-                <testcase classname="br.com.yaman.certificacaotecnica.Performance" name="passedTest2" time="29.000">
+                <testcase classname="br.com.yaman.certificacaotecnica.Performance" name="PaymentCard" time="23.000">
 
                 </testcase>
+				
+				<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="CustomerProfile" time="19.000">
+
+                </testcase>
+
+                <testcase classname="br.com.yaman.certificacaotecnica.Performance" name="CustomerAddress" time="29.000">
+
+                </testcase>
+				
+				<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Product1" time="9.000">
+
+                </testcase>
+				
+				<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Product2" time="22.000">
+
+                </testcase>
+				
+				<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Product3" time="29.000">
+				<failure message="my assertion">
+					my full assertion description
+				</failure>
+
+                </testcase>
+				
+				<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Price" time="29.000">
+
+                </testcase>
+				
+				<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Integrations" time="29.000">
+				<failure message="my assertion" type="junit.framework.AssertionFailedError">
+					my full assertion description
+				</failure>
+
+                </testcase>
+				
 
 </testsuite>
