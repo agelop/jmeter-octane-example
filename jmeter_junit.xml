@@ -51,7 +51,9 @@
 	<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Auto Jovem - BOTÃO CONTINUAR E PERSONALIZAR" time="29.000"></testcase>
 	<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Auto Jovem - BOTÃO ELABORAR PROPOSTA" time="29.000"></testcase>
 	<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Auto Jovem - PREENCHE DADOS PROPOSTA" time="29.000"></testcase>
-	<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Auto Jovem - BOTÃO EMITIR PROPOSTA" time="29.000"></testcase>
+	<testcase classname="br.com.yaman.certificacaotecnica.Performance" name="Auto Jovem - BOTÃO EMITIR PROPOSTA" time="29.000">
+		<failure></failure>
+	</testcase>
 				
 
 </testsuite>
